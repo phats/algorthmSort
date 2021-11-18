@@ -28,3 +28,4 @@ int main() {
 	c=countingSort(c);
 	cout << isSorted(c) << endl;
 }
+// use for max number 10^6
